@@ -1,0 +1,59 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+    background-color:white;
+}
+
+.intro{
+    text-align: center; 
+}
+
+.intro-image{
+    padding: 20px;
+     text-align: center;
+     width: 500px;
+}
+
+.profile {
+    border: 1px solid lightgray;
+    padding: 20px;
+    text-align: center;
+    width: 500px;
+    margin: 20px auto;
+    border-radius: 10px;
+}
+
+.profile-images img {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+.login{
+    width: 340px;
+    margin: 150px auto;
+    text-align: center;
+}
+.input{
+    width: 100%;
+    margin-bottom: 10px;
+    padding: 12px;
+    box-sizing: border-box;
+    font-size: 16px;
+    border-radius: 10px;
+    border: 1px solid gray;
+}
+.btn{
+    background-color: black;
+    color: white;
+    padding: 13px;
+    width: 100%;
+    font-size: 16px;
+    border: none;
+}
+
+.logo{
+    height: 100px;
+}
